@@ -1,0 +1,22 @@
+[
+{
+    "name": "🚧 editing now ...",
+    "color": "e3dede",
+    "description": "설명에 잘못된 부분이 존재하는 것 같아요. 수정 중입니다."
+},
+{
+    "name": "🙇🏻 help wanted",
+    "color": "a2eeef",
+    "description": "맡은 주제를 잘 모르겠어요. 도움이 필요해요."
+},
+{
+    "name": ":whale: 01 Test & Concurrency",
+    "color": "C2E0C6",
+    "description": "테스트와 동시성"
+},
+{
+    "name": ":ram: 02 Redis",
+    "color": "FEF2C0",
+    "description": "Redis"
+}
+]

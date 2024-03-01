@@ -1,0 +1,67 @@
+[
+{
+    "name": "🚧 editing now ...",
+    "color": "e3dede",
+    "description": "설명에 잘못된 부분이 존재하는 것 같아요. 수정 중입니다."
+},
+{
+    "name": "🙇🏻 help wanted",
+    "color": "a2eeef",
+    "description": "맡은 주제를 잘 모르겠어요. 도움이 필요해요."
+},
+{
+    "name": ":whale: 02 Objects",
+    "color": "C2E0C6",
+    "description": "2장 객체 생성과 파괴"
+},
+{
+    "name": ":ram: 03 Common Methods",
+    "color": "FEF2C0",
+    "description": "3장 모든 객체의 공통 메서드"
+},
+{
+    "name": ":frog: 04 Classes & Interfaces",
+    "color": "d73a4a",
+    "description": "4장 클래스와 인터페이스"
+},
+{
+    "name": ":mouse: 05 Generics",
+    "color": "FEF2C0",
+    "description": "5장 제네릭"
+},
+{
+    "name": ":bird: 06 Enums & Annotations",
+    "color": "d73a4a",
+    "description": "6장 열거 타입과 애너테이션"
+},
+{
+    "name": ":ant: 07 Lamdbas & Streams",
+    "color": "C5DEF5",
+    "description": "7장 람다와 스트림"
+},
+{
+    "name": ":racehorse: 08 Methods",
+    "color": "1D76DB",
+    "description": "8장 메서드"
+},
+{
+    "name": ":pig_nose: 09 General Programming",
+    "color": "D4C5F9",
+    "description": "9장 일반적인 프로그래밍 원칙"
+},
+{
+    "name": ":turtle: 10 Exception",
+    "color": "ccffc4",
+    "description": "10장 예외"
+},
+{
+    "name": ":rabbit2: 11 Concurrency",
+    "color": "ccffc4",
+    "description": "11장 동시성"
+},
+{
+    "name": ":ghost: 12 Serialization",
+    "color": "ccffc4",
+    "description": "12장 직렬화"
+}
+]
